@@ -1,6 +1,6 @@
 def addition(a,b):
     return a+b
-def subtraction(a,b,c):
-    return a-b-c
+def subtraction(a,b):
+    return a-b
 def deviation(a,b):
     return a/b
